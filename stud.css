@@ -1,0 +1,35 @@
+body{
+    background-image: url("un1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.col2{
+
+    background-color: aqua;
+}
+
+.col3{
+
+    background-color:  lightcoral;
+}
+
+
+.col4{
+
+    background-color: thistle
+}
+
+.col5{
+
+    background-color:darkkhaki
+}
+
+.col6{
+
+    background-color: greenyellow;
+}
+
+
+

@@ -1,0 +1,42 @@
+.car{
+    min-height: 70vh
+}
+
+.about{
+        background-color:aqua
+}
+.p1{
+    font-size: 22px
+}
+.img{
+    height: 400px;
+    width: 600px
+}
+.table{
+            
+            text-align: center;
+            font-size: 23px;
+           
+         
+}
+
+.tech{
+
+    height: 600px;
+}
+.home{
+    margin-left: 500px
+}
+
+.btt{
+        margin-left: 150px
+
+}
+
+.footer{
+    min-height: 20vh;
+    color: white;
+    margin-top:   15px;
+    padding: 10px
+
+}
